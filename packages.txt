@@ -1,0 +1,12 @@
+git
+node
+rbenv
+ruby-build
+mysql
+gradle
+cloudfoundry-cli
+wget
+coreutils
+tmux
+vim
+caskroom/cask/brew-cask

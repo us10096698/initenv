@@ -1,0 +1,7 @@
+java
+google-chrome
+shiftit
+iterm2
+flycut
+firefox
+intellij-idea-ce
