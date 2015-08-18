@@ -9,4 +9,5 @@ wget
 coreutils
 tmux
 vim
+maven
 caskroom/cask/brew-cask
